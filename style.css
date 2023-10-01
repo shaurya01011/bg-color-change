@@ -1,0 +1,13 @@
+html{
+    background-color: rgb(108, 108, 108);
+}
+.buttons{
+    display: flex;
+    height: 700px;
+    gap: 50px;
+    justify-content: center;
+}
+button{
+    border: 0px;
+    align-self: center;
+}
